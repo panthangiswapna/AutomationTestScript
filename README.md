@@ -1,1 +1,1 @@
-# AutomationTestScript
+# SampleTestProject
