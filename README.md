@@ -3,7 +3,7 @@ Prerequisites to run the test :
 Install Java 1.8
 Install Eclipse 
 
-Import the SampleTestProject as a Java Project in Eclipse 
+Import the project AutomationTestScript as a Java Project in Eclipse 
 
 Install selenium version 3.4.0 from the path below
 https://www.selenium.dev/downloads/
